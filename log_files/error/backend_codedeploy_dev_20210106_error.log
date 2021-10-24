@@ -1,0 +1,2 @@
+time="2021-01-07T00:01:37.8415102+07:00" level=error msg="script timeout: NettyHttpHandler request execution error" file="C:/Users/Administrator/go/src/auto_booking/helper/automate/automate_impl/booking_auto_impl.go" line=78
+time="2021-01-07T00:01:37.8441188+07:00" level=error msg="landquan2@gmail.com login thất bại" file="C:/Users/Administrator/go/src/auto_booking/helper/automate/automate_impl/booking_auto_impl.go" line=79

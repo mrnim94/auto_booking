@@ -1,0 +1,2 @@
+time="2020-10-25T00:00:01.1317233+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-10-25T00:00:01.1431473+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35

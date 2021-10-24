@@ -1,0 +1,7 @@
+Dockerfile
+go.mod
+go.sum
+.git
+Jenkinsfile
+docker-compose.yml
+trigger.properties

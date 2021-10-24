@@ -1,0 +1,126 @@
+time="2020-11-03T23:59:16.0039789+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-03T23:59:16.0273567+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-03T23:59:31.000208+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-03T23:59:31.0015407+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-03T23:59:46.0002394+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-03T23:59:46.0009056+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:00:01.0005792+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:00:01.0012443+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:00:16.0003765+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:00:16.0010337+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:00:31.0000994+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:00:31.0007741+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:00:46.0000308+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:00:46.0013726+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:01:01.0011335+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:01:01.0017994+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:01:16.0004297+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:01:16.0010876+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:01:31.0011045+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:01:31.0017677+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:01:46.000864+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:01:46.0015299+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:02:01.00026+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:02:01.0009262+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:02:16.0004318+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:02:16.0010977+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:02:31.0000758+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:02:31.0007417+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:02:46.0002501+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:02:46.0009148+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:03:01.0011696+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:03:01.0018221+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:03:16.0001491+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:03:16.0008252+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:03:31.0000947+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:03:31.0007873+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:03:46.0000936+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:03:46.0007609+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:04:01.000631+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:04:01.0012975+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:04:16.0001601+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:04:16.0008261+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:04:31.0002218+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:04:31.0008899+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:04:46.0000408+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:04:46.0006833+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:05:01.0012975+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:05:01.0019412+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:05:16.000096+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:05:16.0007577+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:05:31.0004082+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:05:31.0010733+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:05:46.0000169+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:05:46.0006814+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:06:01.0002939+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:06:01.0009589+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:06:16.0000688+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:06:16.0007468+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:06:31.000385+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:06:31.0010518+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:06:46.0005275+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:06:46.001176+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:07:01.0001715+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:07:01.0008151+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:07:16.0001155+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:07:16.0007744+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:07:31.0001794+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:07:31.0008584+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:07:46.0012528+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:07:46.0019227+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:08:01.0001946+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:08:01.0008607+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:08:16.0003188+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:08:16.0009813+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:08:31.0011705+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:08:31.0018389+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:08:46.0000056+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:08:46.000676+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:09:01.0002167+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:09:01.000884+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:09:16.0004189+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:09:16.0010872+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:09:31.0002704+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:09:31.000949+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:09:46.0009595+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:09:46.0016433+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:10:01.0010471+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:10:01.0017603+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:10:16.0001688+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:10:16.0028474+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:10:31.0011698+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:10:31.0018076+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:10:46.0001802+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:10:46.000844+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:11:01.0005964+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:11:01.0012886+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:11:16.0012677+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:11:16.003952+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:11:31.0002982+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:11:31.0009637+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:11:46.000084+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:11:46.0040768+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:12:01.000966+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:12:01.0016339+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:12:16.0000611+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:12:16.0007297+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:12:31.0000664+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:12:31.0007357+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:12:46.0007191+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:12:46.0016941+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:13:01.0002973+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:13:01.000975+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:13:16.001228+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:13:16.0018861+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:13:31.0001376+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:13:31.000786+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:13:46.0000295+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:13:46.0006711+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:14:01.0000097+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:14:01.0006787+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:14:16.0011449+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:14:16.0018248+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:14:31.0004484+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:14:31.001116+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35
+time="2020-11-04T00:14:46.0002676+07:00" level=info msg="Khởi động auto Booking" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=23
+time="2020-11-04T00:14:46.0009223+07:00" level=info msg="Hệ thống không lấy được user nào" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/handler/autobooking_handler.go" line=35

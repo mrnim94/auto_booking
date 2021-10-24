@@ -1,0 +1,4 @@
+time="2020-11-17T00:00:16.1616848+07:00" level=error msg="nhantran2002@gmail.com không thể chọn 06:00 AM - 07:00 AM" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/helper/automate/automate_impl/booking_auto_impl.go" line=210
+time="2020-11-17T00:00:16.1650202+07:00" level=error msg="Không tìm thấy User" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/helper/automate/automate_impl/booking_auto_impl.go" line=221
+time="2020-11-17T00:00:45.6594195+07:00" level=error msg="script timeout: NettyHttpHandler request execution error" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/helper/automate/automate_impl/booking_auto_impl.go" line=243
+time="2020-11-17T00:00:59.5576614+07:00" level=error msg="script timeout: NettyHttpHandler request execution error" file="C:/Users/Administrator/Desktop/gocode/src/auto-booking/helper/automate/automate_impl/booking_auto_impl.go" line=243
