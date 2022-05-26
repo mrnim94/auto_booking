@@ -1,6 +1,6 @@
 version: '2'
 config:
-  slack_notify: true
+  slack_notify: false
   slack_channel: batman-ci
 environment:
   BUILD_IMAGE: 'maven:3.6-jdk-11'
